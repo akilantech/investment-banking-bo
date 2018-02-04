@@ -14,7 +14,7 @@ Asset records provides several key information. Liquidity information wanted by 
 
 Asset movements function as it name denotes, moves the asset back and forth between investment bank and external parties like exchange or nostro agents. Once order to buy or sell a stock is executed in upstream(Front and Middle office), back office has responsibility to move ownership of asset. It has to pay money and receive the stocks or deliver the stocks and receive the money. Mostly, money and cash move in opposite direction. 
 
-asset movement function feeds data to asset record. It’s most of the instruction to exchanges and other banks “nostro” agent based thru swift network. Every movement go thru Anti-Money laundering(AML) Office of Foreign Asset Control(OFAC) check as well as any checks stipulated local regulators. Carrying out of clearing and settlement of the banks is important responsibility of the asset movement.These movements generally happens thru Central Counter Party Clearing House (CCP) to avoid the credit risk. 
+It’s most of the instruction to exchanges and other banks pass thru swift network. Every instruction goes thru Anti-Money laundering(AML), Office of Foreign Asset Control(OFAC) check as well as any checks stipulated local regulators. Carrying out of clearing and settlement of the banks is important responsibility of the asset movement.These movements generally happens thru Central Counter Party Clearing House (CCP) to avoid the credit risk. asset movement function informs settlement to asset record to rebalance its asset positons.
 
 
 ## Asset Servicing
