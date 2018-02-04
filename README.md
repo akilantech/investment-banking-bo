@@ -21,3 +21,7 @@ asset movement function feeds data to asset record. It’s most of the instructi
 Custodial banks maintains client’s assets by getting fees. Issuer of the stocks pay dividends to the CSD which holds the asset, CSD in turn pay the asset to the Custodian banks, which in turn pays to the clients. Clients can give standing instruction to custodial bank for money it receive for dividend. like, credit to particular account, accumulate for particular tenure, invest in money market and etc. 
 
 Corporation will split the shares when the price reaches it’s high value, in order to be more attractive for small investor. In such situations, Asset servicing interacts with CSD to get their splits for their customers. Two corporation could merge or single corporation spin off a new corporation. all these actions possible change the quantity of stocks. Asset servicing ensures all the corporate actions are taken care for it’s clients.
+
+## How everything related?
+
+![back_office](back_office.png)
