@@ -3,6 +3,8 @@
 
 Investment banking back office  essentially deals with cash and stocks. We can call them with common name "assets". In order to understand Investment banking back office, it is better to split them into small functions. Typically, they can be sliced into  asset record, asset movement and asset servicing. Every bank needs to know what asset it holds and its quantity. asset record maintains this vital information. Bank has to interact with other financial institution like exchange or other banks for moving the asset. This function is referred as asset movement. Once banks is in-charge for its customers asset, It needs to provide all the benefits of the asset to the actual owner. Asset servicing function manages corporate actions for the assets
 
+![overview](back_office_ov.png)
+
 ## Asset Record
 Any organization to be successful and efficient, It should be in control of its own goods and cash. Asset record achieves that by maintaining current inventory or position of assets. For the brevity of the discussion, let’s take  traded and settled position. traded position means what has been agreed to buy or sell with exchange by order execution, that helps to predict the future movement of asset. settled position reflects actual security position in CSD (Central Security Depository) and cash in clients accounts. traded position gives prediction for clients asset. 
 
