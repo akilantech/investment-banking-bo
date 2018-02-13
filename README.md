@@ -2,7 +2,7 @@
 
 Following article is concise explanation of investment back office. It briefs about essential functions.
 
-Investment banking back office  essentially deals with cash and stocks. In order to understand Investment banking back office, it is better to split them into small functions. Typically, they can be sliced into  stock record, clearing and settlement, and custody services. Every bank needs to know what asset it holds and its quantity. Stock Record maintains this vital information. Bank has to interact with other financial institution like exchange or other banks for moving the asset. This function is referred as clearing and settlement. Once banks is in-charge for its customers asset, It needs to provide all the benefits of the asset to the actual owner. Custody services function manages corporate actions for the assets. 
+Investment banking back office  essentially deals with cash and stocks. In order to understand Investment banking back office, it is better to split them into small functions. Typically, they can be sliced into  stock record, clearing and settlement, and custody services. Every bank needs to know what asset it holds and its quantity. Stock Record maintains this vital information. Bank has to interact with other financial institution like exchange or other banks for moving the asset. This function is referred as clearing and settlement. Once banks is in-charge for its customers asset, It needs to provide all the benefits of the asset like dividents,coupons or gift shares to the actual owner. Custody services function manages those corporate actions for the assets. 
 
 ## Following diagram shows where are the back office functions located.
 
