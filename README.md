@@ -31,7 +31,7 @@ Corporation will split the shares when the price reaches it’s high value, in o
 
 1. Order becomes trade when it is executed in the market. Trade that is enriched with details for settlement reaches back office applications.
 1. Stock Record creates or updates traded position.
-1. Clearing and settlement function prepares settlement instruction for the trade and sends to exchange/CCP. mostly settlement instructions will be in SWIFT.
+1. Clearing and settlement function prepares settlement instruction for the trade and sends to exchange/CCP. mostly settlement instructions will be in SWIFT.Some cases, It directly pays money to counterparty by instruction the nostro agent.
 1. Exchange/CCP receives settlement instructions from parties involved.It matches them and informs clearing and settlement function.
 1. Exchange/CCP debits money from bank account and credits stocks to the CSD or vice versa. It publishes settlement completion to involved parties.
 1. Settlement and clearing function updates the status of settlement in Stock Record to make it reflect what is in CSD.
