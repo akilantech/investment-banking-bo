@@ -11,9 +11,9 @@ Investment banking back office  essentially deals with cash and stocks. In order
 ## Stock Record
 Any organization to be successful and efficient, It should be in control of its own goods and cash. Stock Record achieves that by maintaining current inventory or position of assets. For the brevity of the discussion, let’s take  traded and settled position. traded position means what has been agreed to buy or sell with exchange by order execution, that helps to predict the future movement of asset. settled position reflects actual security position in CSD (Central Security Depository) and cash in clients accounts. settled position gives what bank actually hold in every moment. 
 
-Stock Record helps banks to lend money based on future position. For example, a hedge fund client executed an order to to by Singtel shares for 1 million. In Stock Record, it is receivable traded position, assuming that settlement happens in T + 3, bank can lend money based the predictive receipts of collateral. In this case, it is 1 million Singtel shares can be collateral.
+Stock Record helps banks to lend money based on future position. For example, a hedge fund client executed an order to buy Singtel shares for 1 million. In Stock Record, it is receivable traded position, assuming that settlement happens in T + 3, bank can lend money based the predictive receipts of collateral. In this case, it is 1 million Singtel shares can be collateral.
 
-Stock Records provides several key information. Liquidity information wanted by the regulators. Funding requirements for the cash accounts to avoid over due charges. It feeds banks general ledger for accounting    
+Stock Records provides several key information like liquidity information wanted by the regulators, funding requirements for the cash accounts to avoid over due charges. It feeds banks general ledger for accounting    
 
 ## Clearing and Settlement
 
