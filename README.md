@@ -21,6 +21,7 @@ Clearing and settlement function moves the asset back and forth between investme
 
 It’s most of the instruction to exchanges and other banks pass thru swift network. Every instruction goes thru Anti-money laundering(AML), Office of Foreign Asset Control(OFAC) check as well as any checks stipulated local regulators. Clearing and settlement generally happens thru Central Counter Party Clearing House (CCP) to avoid the credit risk. Clearing means matching  settlement instruction with CCP. Settlement means actual movement of ownership. Once settlement is done, It publishes information to Stock Record to rebalance its asset positions.
 
+![CCP interactions](sequence_ccp.png)
 
 ## Custody services
 Custodial banks maintains client’s assets by getting fees. Issuer of the stocks pay dividends to the CSD which holds the asset, CSD in turn pay the asset to the Custodian banks, which in turn pays to the clients. Clients can give standing instruction to custodial bank for money it receive for dividend. like, credit to particular account, accumulate for particular tenure, invest in money market and etc. 
